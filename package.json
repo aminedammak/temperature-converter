@@ -1,6 +1,6 @@
 {
-  "name": "temperature-converter",
-  "version": "0.1.0",
+  "name": "@amine_dmk/temperature-converter",
+  "version": "1.0.0",
   "description": "Converts the temperature in Fahrenheit to Celsius and vice versa",
   "main": "index.js",
   "scripts": {
